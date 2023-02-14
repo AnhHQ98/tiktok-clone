@@ -1,0 +1,27 @@
+.video-wrapper {
+    display: flex;
+    padding: 20px 0;
+}
+.avatar {
+    cursor: pointer;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+}
+.video-content {
+    margin-left: 12px;
+}
+.video-info__text {
+    font-family: var(--font-family);
+    color: var(--text-color);
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+.video-info__text__name {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+}
+.video-video__card__video {
+    width: 273px;
+}
